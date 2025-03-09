@@ -1,7 +1,3 @@
-Here’s a creative and engaging README for your GitHub repository:  
-
----
-
 # 🎯 Simple Linear Classifier 🌟  
 
 🚀 **Deployed on Streamlit Cloud** | 🔍 **Machine Learning Made Simple**  
@@ -73,4 +69,5 @@ streamlit run app.py
 
 ---
 
-Let me know if you’d like any modifications! 🚀🔥
+##Acknowledgements
+Id
