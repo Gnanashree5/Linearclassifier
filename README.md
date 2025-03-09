@@ -70,4 +70,4 @@ streamlit run app.py
 ---
 
 <h2>Acknowledgements</h2>
-<p>This notebook was done under guidance of  <a href="https://github.com/Victor-Ikechukwu">Dr. Agughasi Victor Ikechukwu</a></p>
+<p>This project was done under guidance of  <a href="https://github.com/Victor-Ikechukwu">Dr. Agughasi Victor Ikechukwu</a></p>
