@@ -41,6 +41,10 @@ streamlit run app.py
 2️⃣ Visit [Streamlit Cloud](https://streamlit.io/cloud) 🌐  
 3️⃣ Connect your repository & deploy 🎉  
 
+## Local URL: http://localhost:8501
+## Network URL: http://192.168.19.21:8501
+## Streamlit address: https://linearclassifier.streamlit.app/
+
 ## 🖥️ How It Works  
 ✅ **Train a Logistic Regression model** using **scikit-learn**  
 ✅ **Input features interactively** via Streamlit  
